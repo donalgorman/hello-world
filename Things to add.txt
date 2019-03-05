@@ -1,0 +1,12 @@
+
+FULL RELEASE UPDATES:
+
+Simulation for binomial outcomes?
+- Create R code to re-create figure
+
+
+Hover over mouse - showing help (help button each button)
+
+Colour on legend advanced option text
+
+DGAT2? Veena work?

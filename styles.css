@@ -1,0 +1,21 @@
+
+/* Validation errors: */
+.shiny-output-error-validation {
+  color: red;
+}
+
+/* Precision warning: */
+#text_warning_prec{
+  color: red;
+  font-size: 20px;
+  font-style: italic;
+}
+
+/* Progress bar options: */
+.shiny-progress .progress-text{
+  color: red;
+  font-size: 24px;
+  left: 50% !important;
+}
+
+
